@@ -6,9 +6,9 @@
 
 <em>Unlocking insights for winning Formula 1 strategies.</em>
 
-<img src="https://img.shields.io/github/last-commit/lankdaniel14/F1-ML-Project?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/lankdaniel14/F1-ML-Project?style=flat&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/lankdaniel14/F1-ML-Project?style=flat&color=0080ff" alt="repo-language-count">
+<img src="https://img.shields.io/github/last-commit/DanielLankry/F1-ML-Project?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/DanielLankry/F1-ML-Project?style=flat&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/DanielLankry/F1-ML-Project?style=flat&color=0080ff" alt="repo-language-count">
 
 </div>
 <br>
@@ -91,7 +91,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/lankdaniel14/F1-ML-Project.git](https://github.com/lankdaniel14/F1-ML-Project.git)
+    git clone https://github.com/DanielLankry/F1-ML-Project.git
     cd F1-ML-Project
     ```
 
